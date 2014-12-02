@@ -1,0 +1,6 @@
+inted mained () 
+{ 
+  inted i, j, k;
+  inted i;
+  k = 0;
+}
